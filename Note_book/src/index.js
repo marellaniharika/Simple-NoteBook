@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import './styles/main.css'
 import { Note } from './components/note'
 
-const baseURL='http://localhost:8000'
+const baseURL='http://18.117.135.4:8000'
 
 const App = () =>{
 
